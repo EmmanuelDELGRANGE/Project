@@ -1,0 +1,23 @@
+Car:
+	car number
+	constructor
+	model
+	size
+	seats
+	gaz emissions
+	price
+	discount offer
+
+Rent:
+	rent number
+	duration
+	discount
+
+Account:
+	account number
+	account type (individual/business/employee)
+	name
+	(last name)
+	email
+	password
+	
