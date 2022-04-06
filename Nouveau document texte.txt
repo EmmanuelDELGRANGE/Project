@@ -1,0 +1,12 @@
+<<<<<<< Updated upstream
+=======
+Hola
+
+INSERT INTO `car` (`numCar`, `model`, `constructor`, `rentPrice`, `discountOffer`, `size`) VALUES (NULL, '206', 'Peugeot', '50', '0.2', '4');
+INSERT INTO `car` (`numCar`, `model`, `constructor`, `rentPrice`, `discountOffer`, `size`) VALUES (NULL, 'Fortwo', 'Smart', '40', '', '2');
+INSERT INTO `car` (`numCar`, `model`, `constructor`, `rentPrice`, `discountOffer`, `size`) VALUES (NULL, 'Civic', 'Honda', '60', '10', '5');
+INSERT INTO `car` (`numCar`, `model`, `constructor`, `rentPrice`, `discountOffer`, `size`) VALUES (NULL, '500E', 'Mercedes-Benz', '150', '', '5');
+INSERT INTO `car` (`numCar`, `model`, `constructor`, `rentPrice`, `discountOffer`, `size`) VALUES (NULL, 'Enzo', 'Ferrari', '300', '', '2');
+INSERT INTO `car` (`numCar`, `model`, `constructor`, `rentPrice`, `discountOffer`, `size`) VALUES (NULL, 'Continental GT', 'Bentley', '500', '0.05', '2');
+INSERT INTO `car` (`numCar`, `model`, `constructor`, `rentPrice`, `discountOffer`, `size`) VALUES (NULL, 'Focus', 'Ford', '60', '0.3', '5');
+>>>>>>> Stashed changes
